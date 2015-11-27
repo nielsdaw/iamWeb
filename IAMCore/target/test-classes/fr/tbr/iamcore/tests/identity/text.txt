@@ -1,0 +1,7 @@
+Update process
+
+1. Search for the identity we want to update
+2. modify it (the object we've found)
+3. prepare a second file with the modifications
+4. write this new file as a replacement of the main file.
+

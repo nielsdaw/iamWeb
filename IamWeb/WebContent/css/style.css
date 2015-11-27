@@ -1,0 +1,19 @@
+.center-text{
+	text-align: center;
+}
+
+.text-nd{
+	font-weight: lighter;
+}
+
+.text-size-nd{
+	font-size: 16px;
+}
+
+.header-size{
+	font-size: 60px;
+}
+
+.no-underline{
+	text-decoration: none;
+}
